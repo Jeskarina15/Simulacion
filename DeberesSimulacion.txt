@@ -1,0 +1,9 @@
+1. Tutorial python-->SimulacionDeber
+2. Tutorial Git--> parte1.jpg, parte2.jpg, parte3.jpg, parte4.jpg
+3. Juego Dados--> SimulacionDado
+4. Regresion Pandemia--> Regresion 
+5. Simulacion SIR--> SIRSimulacion
+6. Regresion vs probabilidad--> ModelosProbabilisticos
+7. Pygame-->SimulacionGPropagacion
+8. Simulacion covid-hospital-->SimulacionSIMPY
+9. Ajuste de variable simualcion covid--> SimpySimulacionCovid
